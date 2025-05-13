@@ -1,0 +1,20 @@
+# 
+dist/
+build/
+
+# database files
+*.sqlite
+*.db
+
+# outputs
+output/
+*.log
+
+# temporary files
+__pycache__/
+*.pyc
+
+#others
+library.ico
+LibrarySystemSetup.iss
+LibrarySystem.spec
